@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 10
+names: ['Blower', 'Closed Valve', 'Control-Panel', 'Gate Valve', 'Half closed valve', 'Menger', 'Open valve', 'Orifice', 'Test', 'Valve']
+
+roboflow:
+  workspace: zuyd
+  project: p-id-n7hsv
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zuyd/p-id-n7hsv/dataset/4

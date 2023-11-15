@@ -1,0 +1,6 @@
+train: D:\Downloads\Segmentation.v3i.yolov8\train\images
+val: D:\Downloads\Segmentation.v3i.yolov8\valid\images
+
+nc: 18
+names: ['BeltConveyer', 'DockingStation', 'DustExtractor', 'Filling Machine', 'Menginstallatie', 'MetalDetector', 'Mill', 'Mixer', 'Motor', 'Onbekend', 'Onbekend2', 'Onbekend3', 'Onbekend5', 'ProductReceiver', 'RotarySieve', 'ScrewConveyer', 'Seperator', 'Vacuumfilter']
+

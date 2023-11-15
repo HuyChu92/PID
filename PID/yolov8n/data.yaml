@@ -1,0 +1,6 @@
+train: D:/Projects/School/MateriaalEngineeringDiagrams/blok3_22-23/Automated_Diagrams_Code/yolov5_ws/P-ID.v4i.yolov5pytorch/train/images
+val: D:/Projects/School/MateriaalEngineeringDiagrams/blok3_22-23/Automated_Diagrams_Code/yolov5_ws/P-ID.v4i.yolov5pytorch/valid/images
+
+nc: 10
+names: ['Blower', 'Closed Valve', 'Control-Panel', 'Gate Valve', 'Half closed valve', 'Menger', 'Open valve', 'Orifice', 'Test', 'Valve']
+
