@@ -689,10 +689,10 @@ class ConnectionDetector:
         os.startfile(self.project_dir)
 
 
-path = r"D:\Projects\School\MateriaalEngineeringDiagrams\blok3_22-23\Automated_Diagrams_Code\yolov5_ws\detect\p_id_6_0.png"
-labels = r"D:\Projects\School\MateriaalEngineeringDiagrams\blok3_22-23\Automated_Diagrams_Code\yolov5_ws\yolov5\runs\detect\exp61\labels\p_id_6_0.txt"
+path = r"C:\Users\huy_c\Desktop\PID-1\PID\testafbeeldingen\p_id_6_0.png"
+labels = r"C:\Users\huy_c\Desktop\Projects\yolov5\runs\detect\predict13\labels\p_id_6_0.txt"
 labels_segmentation = (
-    r"C:\Users\huy_c\Desktop\Projects\yolov5\runs\segment\predict11\labels\p_id_6_0.txt"
+    r"C:\Users\huy_c\Desktop\Projects\yolov5\runs\segment\predict19\labels\p_id_6_0.txt"
 )
 detection = ConnectionDetector(path, labels, labels_segmentation)
 
