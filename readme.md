@@ -18,19 +18,19 @@
 
 ## YOLOv8 Documentation and more
 
-* Repository: [https://github.com/ultralytics/ultralytics/]()
-* Official page: [https://yolov8.com/]()
-* Documentation: [https://docs.ultralytics.com/]()
+* Repository: [https://github.com/ultralytics/ultralytics/](https://github.com/ultralytics/ultralytics)
+* Official page: [https://yolov8.com/](https://yolov8.com/)
+* Documentation: [https://docs.ultralytics.com/](https://docs.ultralytics.com/)
 
 ## Cuda support
 
-* [https://pytorch.org/get-started/locally/]()
+* [https://pytorch.org/get-started/locally/](https://pytorch.org/get-started/locally/)
 * pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 
 ## Roboflow
 
-* Official page: [https://roboflow.com/]()
+* Official page: [https://roboflow.com/](https://roboflow.com/)
 
 ## Video tutorial
 
-* [https://youtu.be/f6bn96WMgh4]()
+* [https://youtu.be/f6bn96WMgh4](https://youtu.be/f6bn96WMgh4)
